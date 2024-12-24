@@ -2,10 +2,9 @@ This is level 1a file
 That's it's name
 It was first created 
 on level 1
-stayed there for a very long while,
+stayed there for a while,
 a really long while,
 taking absolutely forever
-and ever,
 then moved to level2
 and it's still there
 and will be there for some time,
@@ -14,5 +13,5 @@ and more, and more
 and even more
 and evermore
 and everafter
-until it really overstayed its welcome
+until it  overstayed its welcome
 and it was enough
