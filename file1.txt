@@ -1,8 +1,13 @@
 Line 1a
 line 2
 line 3a
+<<<<<<< Updated upstream
 line 4a
 line 5a
+=======
+line 4
+line 5
+>>>>>>> Stashed changes
 line 7
 line 8
 line 9
