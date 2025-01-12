@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-Line 1a
+Line 1
 line 2a
 line 3
 line 4
